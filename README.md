@@ -1,3 +1,7 @@
+## How to install this app (Android only)
+If you would like to test this app out, you may install by going to the [releases page](https://github.com/logburn/LiveUnsafe/releases) and downloading the most recent (first on the list) "app-release.apk" file you see. After downloading, you can open the file in your file browser and your system will require you to allow installing apps from the browser (as a safety measure). Allow this, and then tap to install. After installation it will be on your phone as a green icon with no app name.
+By installing you agree to only use this app for testing purposes and to not attempt to fool any employee of James Madison University. I take no responsibility for any malicious or deceitful activities. Install at your own risk.
+
 # LiveUnsafe
 This app displays a checkmark screen similar to that of the LiveSafe application required to go to JMU's campus.
 This app displays the green checkmark, "Welcoem to Campus!" message, and the date and time, pushed back by one minute. If you hold the application open, the date and time will not change. Closing the app out entirely will make it regenerate the timestamp on next launch.
