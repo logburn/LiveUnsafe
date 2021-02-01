@@ -1,6 +1,7 @@
 # LiveUnsafe
 This app displays a checkmark screen similar to that of the LiveSafe application required to go to JMU's campus.
 This app displays the green checkmark, "Welcoem to Campus!" message, and the date and time, pushed back by one minute. If you hold the application open, the date and time will not change. Closing the app out entirely will make it regenerate the timestamp on next launch. Below is a screenshot:
+
 <img src=screenshot.png alt="Screenshot of LiveUnsafe application" title="Screenshot of LiveUnsafe application" width="200" />
 
 # Disclaimer
