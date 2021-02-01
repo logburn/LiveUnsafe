@@ -1,9 +1,9 @@
 ## How to install this app (Android only)
-If you would like to test this app out, you may install by:
- - going to the [releases page](https://github.com/logburn/LiveUnsafe/releases)
- - downloading the most recent (first on the list) "app-release.apk" file you see
- - after downloading, you can open the file in your file browser and your system will require you to allow installing apps from the browser (as a safety measure). Allow this, and then tap to install
- - After installation it will be on your phone as a green icon with no app name.
+If you would like to test this app out, you may install by following these steps:
+ - Go to the [releases page](https://github.com/logburn/LiveUnsafe/releases)
+ - Download the most recent (first on the list) "app-release.apk" file you see
+ - Open the downloaded file in your file browser (if asked, allow installation from your file manager)
+ - After installation, the app will be on your phone as a green icon with no app name.
 
 **By installing you agree to only use this app for testing purposes and to not attempt to fool any employee of James Madison University. I take no responsibility for any malicious or deceitful activities. Install at your own risk.**
 
