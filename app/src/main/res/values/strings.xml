@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="welcome">No symptoms\nreported today.\nWelcome to campus!</string>
+</resources>
